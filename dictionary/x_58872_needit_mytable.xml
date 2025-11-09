@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7aa435d783e43210658e5750ceaad338" label="mytable" max_length="40" name="x_58872_needit_mytable" type="collection">
+        <element label="商品ID" max_length="40" name="product_id" type="string"/>
+        <element label="住所" max_length="40" name="address" type="string"/>
+        <element label="氏名" max_length="40" name="name" type="string"/>
+        <element label="単価" max_length="20" name="price" type="currency"/>
+        <element label="性別" max_length="40" name="sex" type="integer"/>
+    </element>
+</database>
